@@ -5,10 +5,13 @@
 
 ### 🚀 Sobre mim
 
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com grande interesse em desenvolvimento web, lógica de programação e tecnologia de forma geral. Estou em constante evolução, buscando aprender novas ferramentas e boas práticas para me tornar um desenvolvedor completo.
+
+
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💻 Apaixonado por **tecnologia, programação e aprendizado contínuo**
 - 🌱 Atualmente estudando: **HTML, CSS, JavaScript, Python e Git**
-- 📚 Buscando oportunidades para crescer como **desenvolvedor**
+- 🎯 Objetivo: Me tornar um desenvolvedor Full Stack
 - 🔍 Em constante evolução e aberto a colaborações em projetos
 
 ---
@@ -34,10 +37,16 @@
 
 ### 📫 Contato
 
+Se quiser trocar uma ideia, colaborar ou fazer networking:
+
 - 📧 Email: **Leocastro21@outlook.com**
 - 💼 LinkedIn: [linkedin.com/in/Leo-CastroDEV](https://linkedin.com/in/Leo-CastroDEV)
 - 🌐 Portfólio (em breve)
 
 ---
 
-✨ _"A jornada é tão importante quanto o destino."_  
+ <p align="center">
+  <i>"A tecnologia move o mundo, e eu quero fazer parte dessa transformação."</i>
+</p>
+
+<p align="center">Feito com dedicação por <strong>Leonardo Castro</strong> 💻</p>
