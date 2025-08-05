@@ -35,7 +35,7 @@
 ### 📫 Contato
 
 - 📧 Email: **Leocastro21@outlook.com**
-- 💼 LinkedIn: [linkedin.com/in/leonardo-castro](https://linkedin.com/in/leonardo-castro)
+- 💼 LinkedIn: [linkedin.com/in/Leo-CastroDEV](https://linkedin.com/in/leonardo-castro)
 - 🌐 Portfólio (em breve)
 
 ---
