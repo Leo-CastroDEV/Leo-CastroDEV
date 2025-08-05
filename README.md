@@ -5,7 +5,7 @@
 
 ### 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com grande interesse em desenvolvimento web, lógica de programação e tecnologia de forma geral. Estou em constante evolução, buscando aprender novas ferramentas e boas práticas para me tornar um desenvolvedor completo.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com grande interesse em desenvolvimento, lógica de programação e tecnologia de forma geral. Estou em constante evolução, buscando aprender novas ferramentas e boas práticas para me tornar um desenvolvedor completo.
 
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
