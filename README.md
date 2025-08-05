@@ -40,7 +40,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com grande interess
 Se quiser trocar uma ideia, colaborar ou fazer networking:
 
 - 📧 Email: **Leocastro21@outlook.com**
-- 💼 LinkedIn: [linkedin.com/in/Leo-CastroDEV](https://linkedin.com/in/Leo-CastroDEV)
+- 💼 LinkedIn: [linkedin.com/in/LeoCastroDEV](https://linkedin.com/in/LeoCastroDEV)
 - 🌐 Portfólio (em breve)
 
 ---
