@@ -67,15 +67,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com grande interesse em
 
 <div align="center">
 
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=Leo-CastroDEV&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&cache_seconds=86400" 
-       height="150"
-  />
+  <img height="150" alt="stats graph" class="max-w-full" src="https://github-readme-stats.profile-readme-generator.com/api?username=Leo-CastroDEV&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=en&amp;hide_border=false&amp;order=1">
 
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-CastroDEV&layout=compact&langs_count=5&theme=github_dark&cache_seconds=86400" 
-       height="150"
-  />
+  <img height="150" alt="languages graph" class="max-w-full" src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=Leo-CastroDEV&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dark&amp;hide_border=false&amp;order=2">
 
 </div>
 
