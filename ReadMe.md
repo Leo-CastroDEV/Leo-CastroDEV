@@ -113,24 +113,26 @@ Meu objetivo não é apenas aprender tecnologias, mas **entender como utilizá-l
 
 ## ⭐ Projetos em destaque
 
-### 📋 Gerenciador de Tarefas
+### 🚀 AlfaTech — Landing Page de Hospedagem
 
-Aplicação para gerenciamento de tarefas desenvolvida com arquitetura **Front-end + API + Banco de Dados**.
+**AlfaTech** é uma landing page responsiva de serviços de hospedagem, desenvolvida com foco em **design moderno, experiência do usuário, responsividade e boas práticas de Front-end**. O projeto simula uma plataforma comercial para apresentação de planos, recursos e serviços de hospedagem.
 
-**Principais recursos:**
+✨ Principais recursos</br>
+🖥️ Apresentação dos serviços de hospedagem</br>
+💰 Seção de planos e preços</br>
+📱 Layout totalmente responsivo</br>
+🎨 Interface moderna e profissional</br>
+🧭 Navegação intuitiva</br>
+📋 Seções organizadas para apresentação dos serviços</br>
+⚡ Estrutura otimizada para uma boa experiência do usuário
 
-* Criação e gerenciamento de tarefas
-* Edição e exclusão
-* Conclusão de tarefas
-* Organização por prioridades
-* Calendário
-* API REST
-* Integração com banco de dados
-* Interface responsiva
+## 🛠️ Tecnologias utilizadas
+HTML5 — Estrutura semântica da página</br>
+CSS3 — Estilização, layout e responsividade</br>
+JavaScript — Interações e funcionalidades</br>
+Bootstrap — Componentes e responsividade</br>
 
-**Stack:** React • JavaScript • Node.js • Express • MySQL
-
-🔗 **Demo:** https://gerenciador-de-tarefas-rho-ten.vercel.app/
+🔗**Demo** https://pagina-provedor-de-hospedagem.vercel.app/
 
 ---
 
