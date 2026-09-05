@@ -7,10 +7,10 @@
 <p align="center">
   <a href="https://github.com/Leo-CastroDEV">
     <img src="https://img.shields.io/badge/GitHub-Leo--CastroDEV-181717?style=for-the-badge&logo=github" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/leocastrodev/">
     <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Castro-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/devleocastro/">
     <img src="https://img.shields.io/badge/Instagram-@devleocastro-E4405F?style=for-the-badge&logo=instagram" />
   </a>
@@ -160,15 +160,18 @@ O projeto também conta com integração de **Inteligência Artificial** para in
 
 **Stack:** HTML • CSS • JavaScript • Node.js • Express • Bootstrap • Gemini API
 
+🔗 **Portfólio** http://leonardocastro.tech
+
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leo-CastroDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-CastroDEV&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="140" src="https://github-readme-stats.shion.dev/api?username=Leo-CastroDEV&theme=transparent&hide_border=true&hide_rank=true" />
+  <img height="140" src="https://streak-stats.demolab.com/?user=Leo-CastroDEV&theme=transparent&hide_border=true" />
+  <img height="140" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Leo-CastroDEV&theme=transparent&hide_border=true&layout=compact" />
 </p>
+
 
 ---
 
@@ -205,15 +208,12 @@ Estou aberto a **oportunidades de estágio, posições júnior, projetos e netwo
 Se você está recrutando desenvolvedores ou quer trocar ideias sobre tecnologia, fique à vontade para entrar em contato.
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/leocastrodev/">
-<img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Leo-CastroDEV">
-<img src="https://img.shields.io/badge/GitHub-Veja%20meus%20projetos-181717?style=for-the-badge&logo=github"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/leocastrodev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Leo-CastroDEV">
+    <img src="https://img.shields.io/badge/GitHub-Veja%20meus%20projetos-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
